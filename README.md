@@ -1,3 +1,3 @@
-Demo App for Covid 19 cases updates state wise.
+An App which displays all the real time covid updates in the nation + the statewise updates across the nation with all updates like new, active, deceased etc.
 
-Source :- covid19india.org
+source of the data :- covid19india.com
